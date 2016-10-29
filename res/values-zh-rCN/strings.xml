@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EnsureModuleList</string>
+    <string name="xposed_summary">Ensure Xposed Installer uses modules.list</string>
+
+</resources>
